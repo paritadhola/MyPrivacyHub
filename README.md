@@ -73,5 +73,5 @@ The app exports the following structure as `my_privacy_backup.json`:
 ## 👩‍💻 Author
 
 Parita Shamjibhai Dhola  
-[LinkedIn](#) | [Portfolio](#)
+[LinkedIn](https://www.linkedin.com/in/parita-dhola-324990121/)
 

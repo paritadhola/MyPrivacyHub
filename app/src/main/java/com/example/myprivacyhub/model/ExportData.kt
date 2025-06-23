@@ -7,3 +7,4 @@ data class ExportData(
     val locationConsent: Boolean,
     val analyticsConsent: Boolean
 )
+
